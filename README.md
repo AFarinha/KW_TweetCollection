@@ -1,5 +1,5 @@
 # KW_TweetCollection
-Dataset consisting of 8698 tagged tweets from September 2017
+Dataset consisting of 8722 tagged tweets from September 2017
 
 The number of characters in the tweets was 140 characters even though the tweets could have a longer length. This problem should be to the twitter API that to get the full tweet it is necessary to activate a flag in the request.
 
