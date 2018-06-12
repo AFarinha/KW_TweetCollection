@@ -1,5 +1,6 @@
 # KW_TweetCollection
 KW_TweetCollection consists of 25 twitter users (identified by the twitter user id), 8722 tweets (identified by the tweet id and collected on September 2017) and 39,967 corresponding relevant keywords (manually annotated by 15 volunteers). To guarantee its adaptability to different research purposes, we opt to provide two different accesses to KW_TweetCollection. 
+
 	* Folder “all” gathers all the 8722 tweets and corresponding relevant keywords.
 	* Folder “users” gathers the same number of tweets and corresponding relevant keywords but this time divided into 25 folders corresponding to each one of the 25 twitter users (identified by the user id).
 
