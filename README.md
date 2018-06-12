@@ -3,6 +3,8 @@ KW_TweetCollection consists of 25 twitter users (identified by the twitter user 
 	- Folder “all” gathers all the 8722 tweets and corresponding relevant keywords.
 	- Folder “users” gathers the same number of tweets and corresponding relevant keywords but this time divided into 25 folders corresponding to each one of the 25 twitter users (identified by the user id).
 
+	* [Dropwizard]Example
+	
 The number of characters in the tweets was 140 characters even though the tweets could have a longer length. This problem should be to the twitter API that to get the full tweet it is necessary to activate a flag in the request.
 
 Important:
